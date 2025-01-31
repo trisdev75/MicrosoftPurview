@@ -55,7 +55,7 @@ If there are no results and you are sure that there should be, then the same man
  
 Run again the Search-UnifiedAuditLog command. Now you will find results. 
 
-## Conclusion for Mailbox Search
+## Conclusion
 
 I assume that the "Users" text box in the interface corresponds to the parameter "UserIds" in the commandlet. And there is no match for the "FreeText" parameter.
 
