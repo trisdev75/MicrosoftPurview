@@ -1,4 +1,4 @@
-# Search-UnifiedAuditlogs For Mailboxes Problems
+# Search-UnifiedAuditlogs For Mailbox Problems
 
 ## Introduction
 
