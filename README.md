@@ -23,6 +23,7 @@ Below is a list of the articles I have written. Each article addresses a specifi
 - 🔍 Audit & eDiscovery:
 
     - [Search Unified Audit Logs For Mailbox Problems](Audit/Search-UnifiedAuditLogs-Mailbox.md)
+    - [# Search User Administration Activities - Issues and Solutions](Audit/Search-UnifiedAuditLogs-AdminActivities.md)
 
 - 🛡️ Data Protection: 
 
