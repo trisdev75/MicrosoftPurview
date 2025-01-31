@@ -10,7 +10,13 @@ I believe that by documenting these challenges and solutions, others in the comm
 
 Below is a list of the articles I have written. Each article addresses a specific issue I faced with Microsoft Purview and provides detailed solutions:
 
-- [Audit Logs: Search Unified Audit Logs Problems](Audit-logs/Search-UnifiedAuditLogs.md)
+- Audit :
+
+    - [Search Unified Audit Logs Problems](Audit-logs/Search-UnifiedAuditLogs.md)
 
 - 
 *More articles to come as I continue to explore and troubleshoot Microsoft Purview.*
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0](LICENSE).
