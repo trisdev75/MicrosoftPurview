@@ -10,9 +10,9 @@ I believe that by documenting these challenges and solutions, others in the comm
 
 [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview) is a suite of solutions designed to help organizations protect, govern, and comply with data regulations. This repository focuses specifically on Data Protection, Audit, eDiscovery, and Risk & Compliance Management.
 
-🛡️ Data Protection: Implementing classification, labeling, and Data Loss Prevention (DLP) policies to secure sensitive information.
-🔍 Audit & eDiscovery: Tracking user activities, investigating security incidents, and ensuring compliance through audit logs and eDiscovery tools.
-⚠️ Risk & Compliance Management: Detecting insider threats, enforcing communication compliance, and aligning with regulatory requirements such as GDPR and ISO standards.
+- 🛡️ Data Protection: Implementing classification, labeling, and Data Loss Prevention (DLP) policies to secure sensitive information.
+- 🔍 Audit & eDiscovery: Tracking user activities, investigating security incidents, and ensuring compliance through audit logs and eDiscovery tools.
+- ⚠️ Risk & Compliance Management: Detecting insider threats, enforcing communication compliance, and aligning with regulatory requirements such as GDPR and ISO standards.
 
 By addressing real-world challenges and solutions in these areas, this project aims to provide valuable insights and practical guidance for IT administrators and engineers.
 
